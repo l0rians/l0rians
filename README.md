@@ -1,5 +1,5 @@
 # Hi there! 👋  
-Welcome to my GitHub profile! I'm a passionate web developer always eager to learn and grow.
+Welcome to my GitHub profile! I'm a beginner web developer always eager to learn and grow.
 
 ## 🌟 Skills  
 - **Frontend**: HTML, CSS, JavaScript, React  
