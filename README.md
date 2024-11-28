@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋  
+Welcome to my GitHub profile! I'm a passionate web developer always eager to learn and grow.
 
-<!--
-**l0rians/l0rians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Skills  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express  
+- **Tools**: Git, VS Code  
 
-Here are some ideas to get you started:
+## 💼 Projects  
+- [Meal Sharing App](https://github.com/l0rians/meal-sharing)  
+- [Currency Converter App](https://github.com/l0rians/currency-converter) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in touch!  
+- [LinkedIn](https://www.linkedin.com/in/razambek-khaidov-9782362b6/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l0rians&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l0rians&layout=compact&theme=radical)
