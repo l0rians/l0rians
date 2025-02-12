@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a beginner web developer always eager to learn
 
 ## 💼 Projects  
 - [Meal Sharing App](https://github.com/l0rians/meal-sharing)  
-- [Currency Converter App](https://github.com/l0rians/currency-converter) 
+- [Currency Converter App](https://github.com/l0rians/currency-converter)
+- [MovieApp](https://github.com/l0rians/groupApp)
 
 ## 📫 Get in touch!  
 - [LinkedIn](https://www.linkedin.com/in/razambek-khaidov-9782362b6/)
