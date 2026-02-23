@@ -8,5 +8,5 @@ Welcome to my GitHub profile! I'm a web developer always eager to learn and grow
 
 ## 💼 Projects  
 - [MovieApp](https://github.com/l0rians/groupApp)
-- [Anonymous Voice Chat](https://voxchat.me) (currently off)
+- [Anonymous Voice Chat](https://voxchat.me) 
 
